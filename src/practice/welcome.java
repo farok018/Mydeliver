@@ -8,7 +8,7 @@ public class welcome {
 		System.out.println(2+2);
 		System.out.println("By Farok");
 		System.out.println("Done work");
-		
+		System.out.println("do the job");
 		
 		
 
