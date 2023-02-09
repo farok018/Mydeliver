@@ -10,7 +10,7 @@ public class welcome {
 		System.out.println("Done work");
 		System.out.println("do the job");
 		System.out.println("Testing pollSCM");
-		
+		System.out.println("checking");
 		
 
 	}
